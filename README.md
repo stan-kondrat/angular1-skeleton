@@ -5,3 +5,4 @@
 * Protractor E2E test framework
 * Gulp build system
 * BrowserSync with live reload
+* Angular UI Router
